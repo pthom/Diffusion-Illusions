@@ -1,11 +1,11 @@
-pandas
-opencv-python
-matplotlib
-tqdm
 einops==0.4.1
 icecream==2.1.2
 imageio==2.21.3
+matplotlib==3.5.3
+opencv-python==4.6.0.66
+pandas==1.4.3
 tensorboardX==2.5
+tqdm==4.64.0
 rich
 py3nvml
 tensorboard
